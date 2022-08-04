@@ -1,0 +1,3 @@
+.infinite-scroll::-webkit-scrollbar {
+  display: none;
+}

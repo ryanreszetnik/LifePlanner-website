@@ -1,0 +1,9 @@
+.time-input::placeholder {
+  color: black;
+}
+.time-input {
+  border: none;
+  text-align: right;
+  padding-right: 4px;
+  margin: 1px;
+}
